@@ -8,9 +8,9 @@ export const cpp = new Subjects.Cpp();
 export const java = new Subjects.Java();
 export const react = new Subjects.React();
 export const cTeacher: Subjects.Teacher = {
-  firstName: "Bobby",
-  lastName: "Wine",
-  experienceTeachingC: 10,
+  firstName: "Ahmed",
+  lastName: "Nur",
+  experienceTeachingC: 11,
 };
 
 console.log("C++");
